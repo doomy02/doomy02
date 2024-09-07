@@ -1,7 +1,21 @@
-### Hi there 👋
+### 👋 Hello, I'm Sebastian Stăvar
 
-- 🔭 I’m currently working on JAVA projects.
-- 🌱 I’m currently learning: JAVA, C, C++ and Python.
-- 📫 How to reach me: 
+🔭 Current Project
 
-        Discord: Doomy#5733
+    Smart Home Assistant
+        Technologies: Grammatical Framework, Python, C++.
+        Developing a Smart Home Assistant aimed at improving household automation using natural language processing.
+
+🌱 Learning & Development
+
+I'm committed to continuous learning and skill development. Currently, I'm focused on:
+
+    Languages: Java, C, C++, Python
+    Web Development: Frontend Development (HTML, CSS, JavaScript)
+
+📫 How to Reach Me
+
+    Email: sebastianstavar02@gmail.com
+    Discord: Doomy#5733
+
+Feel free to reach out for collaborations, job opportunities, or any development-related discussions!
