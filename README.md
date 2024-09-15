@@ -19,3 +19,5 @@ I'm committed to continuous learning and skill development. Currently, I'm focus
     Discord: Doomy#5733
 
 Feel free to reach out for collaborations, job opportunities, or any development-related discussions!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doomy02&layout=compact)
