@@ -2,9 +2,9 @@
 
 🔭 Current Project
 
-    Smart Home Assistant
-        Technologies: Grammatical Framework, Python, C++.
-        Developing a Smart Home Assistant aimed at improving household automation using natural language processing.
+    Smart Virtual Assistant
+        Technologies: Grammatical Framework, Python, C++. FastAPI, React, Vite, JavaScript, Docker
+        Developing a Smart Virtual Assistant aimed at improving household automation using natural language processing.
 
 🌱 Learning & Development
 
